@@ -1,2 +1,2 @@
 # terrax
-Pin 13 for Apps. The Arduino of AI-native full-stack development.
+Terrax is an opinionated development board for building and deploying real applications in the age of AI.
