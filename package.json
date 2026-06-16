@@ -1,0 +1,11 @@
+{
+  "name": "terrax",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "tx": "./bin/tx.js"
+  },
+  "dependencies": {
+    "yaml": "^2.7.0"
+  }
+}

@@ -1,0 +1,22 @@
+name: dingmoney
+
+description: Live multiplayer bingo platform
+
+services:
+  frontend:
+    provider: vercel
+    framework: nextjs
+
+  engine:
+    provider: railway
+    runtime: node
+
+  database:
+    provider: supabase
+    type: postgres
+
+  realtime:
+    provider: supabase
+
+  cache:
+    provider: redis
